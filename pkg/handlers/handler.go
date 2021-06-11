@@ -17,7 +17,7 @@ limitations under the License.
 package handlers
 
 import (
-	"github.com/Sirupsen/logrus"
+	"github.com/sirupsen/logrus"
 	api_v1 "k8s.io/api/core/v1"
 )
 

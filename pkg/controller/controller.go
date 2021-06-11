@@ -23,9 +23,9 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/Sirupsen/logrus"
-	"github.com/piontec/k8s-demo-controller/pkg/handlers"
-	"github.com/piontec/k8s-demo-controller/pkg/utils"
+	"github.com/sirupsen/logrus"
+	"github.com/liushiqi1001/k8s-demo-controller/pkg/handlers"
+	"github.com/liushiqi1001/k8s-demo-controller/pkg/utils"
 
 	api_v1 "k8s.io/api/core/v1"
 	meta_v1 "k8s.io/apimachinery/pkg/apis/meta/v1"
